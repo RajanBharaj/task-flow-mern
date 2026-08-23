@@ -1,0 +1,7 @@
+# .gitignore — files that should never be committed to version control
+
+node_modules/
+.env
+.env*.local
+npm-debug.log*
+.DS_Store
